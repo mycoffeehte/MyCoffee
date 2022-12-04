@@ -58,7 +58,8 @@ body{
 }
 
 #bc{
-    margin: 100px;
+    margin-left: 100px;
+    margin-right:auto;
     color: aliceblue;
 }
 
@@ -69,11 +70,12 @@ body{
     align-items: flex-end;
     margin-left: auto;
     margin-right: auto;
+    
 
 }
 
 .bor{
-    border-radius: 100px;
+    border-radius: 20px;
 }
 
 
