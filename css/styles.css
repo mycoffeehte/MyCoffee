@@ -19,7 +19,7 @@ body{
 #banner{
     min-height: 100vh;
     max-width: 100vw;
-    background: url("/images/coffee.jpg");
+    background: url("/MyCoffee/images/coffee.jpg");
     background-attachment: inherit;
     background-position: center;
     background-size: cover;
